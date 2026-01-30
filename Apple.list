@@ -1,0 +1,10 @@
+# Apple 直连核心域名
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,updates.apple.com
+DOMAIN-SUFFIX,appleid.apple.com
