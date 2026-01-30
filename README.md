@@ -3,7 +3,7 @@
 \# LAN...........................................
 
 # ASN
-RULE-SET,https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list,DIRECT
+#RULE-SET,https://raw.githubusercontent.com/missuo/ASN-China/main/ASN.China.list,DIRECT
 
 \#GEOIP CN,DIRECT................................
 
