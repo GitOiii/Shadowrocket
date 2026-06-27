@@ -11,15 +11,16 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 
-# Google
+# Gemini
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,notebooklm.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalicore-pa.googleapis.com
 DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
+DOMAIN,robinfrontend-pa.googleapis.com
 
 # xAI
 DOMAIN,grok.com
