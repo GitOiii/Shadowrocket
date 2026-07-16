@@ -26,8 +26,6 @@ DOMAIN-SUFFIX,grok.com
 
 # Microsoft Copilot
 DOMAIN,copilot.microsoft.com
-#DOMAIN,login.microsoftonline.com
-#DOMAIN,login.live.com
 
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
