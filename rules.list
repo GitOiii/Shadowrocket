@@ -5,8 +5,6 @@ DOMAIN,chat.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,stripe.com
 
 # Google Gemini
 DOMAIN,gemini.google.com
@@ -28,8 +26,8 @@ DOMAIN-SUFFIX,grok.com
 
 # Microsoft Copilot
 DOMAIN,copilot.microsoft.com
-DOMAIN,login.microsoftonline.com
-DOMAIN,login.live.com
+#DOMAIN,login.microsoftonline.com
+#DOMAIN,login.live.com
 
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
