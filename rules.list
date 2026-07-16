@@ -1,17 +1,14 @@
 # OpenAI
-DOMAIN,chat.openai.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openai.azure.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN,chat.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,stripe.com
 
-# Gemini
+# Google Gemini
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,notebooklm.google.com
@@ -20,55 +17,37 @@ DOMAIN,alkalicore-pa.googleapis.com
 DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
-DOMAIN,robinfrontend-pa.googleapis.com
 
-# xAI
-DOMAIN,grok.com
-DOMAIN,api.grok.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN,auth.x.ai
-
-# Microsoft
-DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN,sydney.bing.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN,login.microsoftonline.com
-DOMAIN,login.live.com
-DOMAIN-SUFFIX,msauth.net
-
-# AI 平台
+# Anthropic Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,huggingface.co
-DOMAIN-SUFFIX,cohere.com
-DOMAIN-SUFFIX,mistral.ai
-DOMAIN-SUFFIX,stability.ai
-DOMAIN-SUFFIX,midjourney.com
-DOMAIN-SUFFIX,replicate.com
-DOMAIN-SUFFIX,runwayml.com
-DOMAIN-SUFFIX,elevenlabs.io
-DOMAIN-SUFFIX,elevenlabs.com
+
+# xAI / Grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+# Microsoft Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,login.live.com
+
+# Perplexity
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,character.ai
-DOMAIN-SUFFIX,you.com
-DOMAIN-SUFFIX,poe.com
 
-# 向量库
-DOMAIN-SUFFIX,pinecone.io
-DOMAIN-SUFFIX,qdrant.tech
-DOMAIN-SUFFIX,weaviate.io
-
-# 框架
-DOMAIN-SUFFIX,langchain.com
-DOMAIN-SUFFIX,llamaindex.ai
+# OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
 
-# 云/CDN
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,cloudflare.com
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
 
-# EOF
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# Mistral AI
+DOMAIN-SUFFIX,mistral.ai
+
+# Cohere
+DOMAIN-SUFFIX,cohere.com
+
+# Manus
+DOMAIN-SUFFIX,manus.im
