@@ -15,6 +15,7 @@ DOMAIN,alkalicore-pa.googleapis.com
 DOMAIN,assistant-pa.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,ai.google.dev
+DOMAIN,robinfrontend-pa.googleapis.com
 
 # Anthropic Claude
 DOMAIN-SUFFIX,anthropic.com
